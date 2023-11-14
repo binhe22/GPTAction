@@ -1,6 +1,5 @@
 Welcome to the GPTs Action Collection repository! Our mission is to harness the dynamic capabilities of Generative Pre-trained Transformers (GPTs) and enhance their interaction with the real world. We're building a future where GPTs can access and utilize real-time data, control smart devices, and even assist in everyday tasks. Join us in this exciting journey!
 
-There is also a Website: https://gptaction.ai
 
 
 ### Vision
