@@ -10,6 +10,7 @@ Imagine a world where GPTs can:
 * Conveniently order food for you.
 * Control home appliances, such as lights, to enhance your living experience.
 * Provide secure access to your car by unlocking it on command.
+* 
 To achieve this, we need robust and accessible actions. Our goal is to create a platform where these actions are readily available and easy to integrate with various GPT models.
 
 ### Roadmap
